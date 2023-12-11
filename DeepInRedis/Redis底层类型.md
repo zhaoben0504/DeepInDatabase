@@ -14,7 +14,7 @@ redis是一种基于内存的数据库，对数据读写操作都是在内存中
 
 # 二、Redis常用的数据类型
 
-![img](.\image\d470dea36edf06e9ddc7689a722a9156.png)
+![img](./image/d470dea36edf06e9ddc7689a722a9156.png)
 
 常见应用场景
 
